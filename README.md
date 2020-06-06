@@ -33,5 +33,5 @@ validateHTMLTags.isCustomTag('Send a <custom> and a valid <html> tag here to tes
 We are considering W3Schools valid HTML elements, ref [here](https://www.w3schools.com/tags/ref_html_dtd.asp).
 
 
-### Suggestions
+#### Suggestions
 If you have any suggestions on what more can be added to this library, write to me at - piyush@whisperingbox.com
