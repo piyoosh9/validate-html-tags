@@ -1,6 +1,6 @@
 {
   "name": "validate-html-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functions to escape custom tags in a string or check if string contains valid/custom tags",
   "main": "validate.min.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/piyoosh9/validate-html-tags/issues"
   },
-  "homepage": "https://github.com/piyoosh9/validate-html-tags#readme"
+  "homepage": "https://github.com/piyoosh9/validate-html-tags"
 }
